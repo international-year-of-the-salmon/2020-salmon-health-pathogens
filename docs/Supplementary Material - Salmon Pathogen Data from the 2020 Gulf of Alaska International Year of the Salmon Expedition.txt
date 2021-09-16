@@ -1,0 +1,65 @@
+Salmon Pathogen Assessment Protocols from the 2020 Gulf of Alaska International Year of the Salmon Expedition
+
+Summary: Up to 15 salmon per set, 145 salmon total during the expedition, were dissected in an aseptic environment to assess the health of Pacific salmon during the winter. Tissue samples from gill, heart, kidney, spleen, pyloric caeca, liver, muscle, and brain were preserved in RNAlater. These samples will be tested for the presence of pathogen nucleic acid and host gene expression using a high throughput qPCR screen on the Fluidigm microfluidics platform (Miller et al. 2016).
+
+On-board infrastructure requirements:
+•Aseptic workplace:
+	oBench top: Stainless steel or similar surface for easy cleaning, 100cm x 50cm or larger
+	oSufficiently separate from other catch processing to avoid cross contamination. E.g. separate bench or with physical barrier to other samples
+•Freezer space: 
+	o-80°C, -45°C, or liquid nitrogen
+	oTen specimens per freezer box -> up to 150 freezer boxes (5 x 5 x 2 in./12.7 x 12.7 x 5.1cm)
+•Power supply:
+	oPower for tabletop centrifuge (115 Volt, 60 Hz)
+ 
+Equipment:
+•Dissection kit
+	oSyringes and needles (1 per specimen)
+	oSmall and large scissors (25 each)
+	oSmall and large scalpels (25 each) spare blades for each
+	oSmall and large tweezers (25 each)
+•Cleaning setup
+	oSpray/squirt bottles
+	oFour steel beakers for cleaning
+	o20% Bleach, H20, 70% Ethanol
+	oFlame source like alcohol burner
+•Sample container:
+	oBlood samples: Pre-labelled 1.5ml micro centrifuge tube
+	oqPCR samples: Pre-labelled 1.5ml microcentrifuge tube with RNAlater (Clear=Muscle, Pink=Gill, Green=Spleen, Yellow=Liver, Orange=Heart, Blue=Kidney, Clear=Brain)
+	oHistopathology: Pre-labelled histology cassettes 
+•Sample storage
+	oFreezer boxes for blood and qPCR samples
+	oFormalin tank
+•Tabletop centrifuge
+•PPE
+	oLab coat
+	oGloves
+ 
+Preparing Workstation:
+1.Sterilize bench top with water, 10% bleach, water, ethanol
+2.Set up tool cleaning beakers: Water, 10% bleach, water and ethanol
+3.Clean/sterilize tools with water, bleach, water, then ethanol and flame
+4.Designate an area in your workspace for inside tools (Spleen, Liver, Heart, Head, Kidney, Brain), outside tools (Muscle, Gill), syringes and needles
+5.Prepare sample containers
+	a.Confirm labels
+	b.Loosen lids for easy access
+
+Sample Collection and Processing:
+1.Confirm fish ID and label           		                                                         
+2.Collect blood sample via caudal vein or heart into pre-labelled micro-centrifuge tube. Spin down and freeze immediately.
+3.Collect duplicate fin clip tissue sample for GSI and store in ethanol or dried
+4.Aseptic tissue collection (all dimensions no larger than 4mm) for fish health analysis in the following order in RNA later for qPCR (makes sure to submerge sample) and in a cassette for formalin for histopathology. Record general condition of fish systematically for pre-determined clinical signs and note any additional observations
+	a.Gills: Collect section of 2nd gill with filaments on pseudobranch using outside tools for qPCR (pink tube) and histo. Note discoloration, excess of mucus, erosion, lesions (hemorrhages, nodules, white spots, etc.)  
+	b.Muscle: Remove scales from an area behind the dorsal fin and collect a histo (skin on, include lateral line) and qPCR (clear tube) sample using the outside tools. Note: hemorrhages, boils, nodules, white spots, etc. on systematic score sheet						  
+	c.Spleen: Collect a histo sample into the cassette and qPCR (green tube) sample using the inside tools. Note: enlarged or discoloured spleen, lesions (white spots, stripes, adhesion to other organs, etc.) on systematic score sheet 
+	d.Liver: Collect a histo sample into the cassette and qPCR (yellow tube) sample in RNA later using the inside tools. Note abnormal colour (paler or darker, greenish, yellowish, etc.), enlarged or lesions (nodules, white spots, stripes, etc.)  on systematic score sheet                                                                       
+	e.Heart: Collect the tip of the heart for qPCR (orange tube) using the inside tools. Note: enlarged, deformed, lesions (adhesions, white spots, clots, etc.)  on systematic score sheet                                                
+	f.Kidney: Collect the anterior (head) for histo and qPCR (blue tube) sample using the inside tools. Note: abnormal size or colour, lesions on systematic score sheet
+	g.Brain: Extract the brain and split it along the middle for histo and qPCR (clear tube). Note: lesions (meningeal hemorrhages, nodules, white spots, etc.) on systematic score sheet.  Also collect otolith to share with Neville program
+	h.Kidney: Collect the Posterior kidney for histo
+	i.Heart: Split the reaming heart tissue length wise and collect a half for histo
+	j.Liver: Collect a sample for histo
+	k.Pyloric caeca: Collect a small sample for histo  
+	l.Close histo cassette (confirm 10 samples)
+5.Store histology cassette in formalin tank
+6.Incubate qPCR samples overnight in RNAlater at room temperature. Freeze the next day.
